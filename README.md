@@ -8,3 +8,6 @@ Part 1:
 
 PArt 2:
 https://www.loom.com/share/58d52479b7e345eab2ea894567085060?sid=723f63fd-8a31-4f88-81a0-7d30b5ccd99b
+
+FX:
+https://www3.cs.stonybrook.edu/~pfodor/courses/CSE260/L14-16_JavaFX.pdf
